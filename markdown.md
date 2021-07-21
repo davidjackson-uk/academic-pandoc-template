@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Write Markdown
+# Coding GTM
 
 ## Heading
 
@@ -40,17 +40,21 @@ Strikethrough uses two tildes. ~~Scratch this.~~
    ⋅⋅1. Ordered sub-list
 4. And another item.
 
-⋅⋅⋅You can have properly indented paragraphs within list items. Notice the blank line above, and the leading spaces (at least one, but we'll use three here to also align the raw Markdown).
-
-⋅⋅⋅To have a line break without a paragraph, you will need to use two trailing spaces.⋅⋅
-⋅⋅⋅Note that this line is separate, but within the same paragraph.⋅⋅
-⋅⋅⋅(This is contrary to the typical GFM line break behaviour, where trailing spaces are not required.)
-
-- Unordered list can use asterisks
-
-* Or minuses
-
-- Or pluses
+GTM uses coding, but not all coding is GTM.
+Bottom up coding is where codes are suggested by the data, not the literature.
+GTM coding occurs at the word and sentence level. Line by line coding.
+Top down coding is where codes from the literature are applied to the data.
+Thematic coding a theme is a large category applied to a larger chunk of data
+than in bottom up or top down coding. It can be quick and dirty or underpinned
+by smaller categories.
+Why do we code? We code to build concepts or find concepts, but these concepts
+are of little use if they are not related to one another. This is because when
+we are simply labelling data we are not building theory. Like to think of the
+conceps are bricks and the connections as mortar. We are interested in building
+walls rather than palaces (Dey).
+p.46 Coding is an interac tive and a reflective process. I start with descriptive
+codes and then ask “Why is this being said?” which leads on to an analytical
+code.
 ```
 
 ## Links
